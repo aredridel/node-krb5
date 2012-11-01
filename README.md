@@ -8,7 +8,7 @@ How to Use
 ----------
 
 ``` js
-var krb5 = require('krb5');
+var krb5 = require('node-krb5');
 
 krb5.authenticate('username@REALM', 'password', function(err) {
   if (err) {
