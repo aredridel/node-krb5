@@ -4,6 +4,15 @@ node-krb5
 
 The module currently builds on linux with krb5 headers and libs (tested on centos) and osx (tested on lion); windows coming soon.
 
+Installation
+------------
+
+You can install with `npm`:
+
+``` bash
+$ npm install -g node-krb5
+```
+
 How to Use
 ----------
 
